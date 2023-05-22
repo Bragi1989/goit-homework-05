@@ -87,6 +87,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
 }
 
 .head-item {
+  position: relative;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -96,11 +97,11 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
 
   color: var(--color-backgraund);
 }
-.head-item-two {
+/* .head-item-two {
 position: relative;
  color: #404bbf;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 .head-item-two::after {
   position: absolute;
