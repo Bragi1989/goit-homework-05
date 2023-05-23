@@ -112,6 +112,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
       border-radius: 2px;
 }
 .head-item-two{
+  position: relative;
   color: var(--accent-color);
 }
 .head-item:hover,
