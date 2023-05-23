@@ -121,8 +121,8 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
 .head-adres {
   font-style: normal;
   gap: 40px;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .head-contact {
   font-weight: 400;
   font-size: 16px;
